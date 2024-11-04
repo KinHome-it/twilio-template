@@ -27,7 +27,7 @@ const Category: React.FunctionComponent<CategoryProps> = ({ section, responses }
         </THead>
         <TBody>
           {responses.map((response: CannedResponse) => {
-            return <Response key={response.text} label={response.label} text={response.text} />;
+            return <Response key={response.label} label={response.label} text={response.text} />;
           })}
         </TBody>
       </Table>
