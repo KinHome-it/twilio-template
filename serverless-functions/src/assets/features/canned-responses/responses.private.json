@@ -5,15 +5,15 @@
       "responses": [
         {
           "label": "Federal Tax Credit",
-          "text": "Hello {{attributes.firstName}},\n\nAs you requested, here is the information you need for the Federal Solar Tax Credit. \nAttached to the email is a copy of your Residential Purchase Agreement - the price on there is what you use for IRS Form 5695. \nIRS Form 5695: https://www.irs.gov/forms-pubs/about-form-5695\nThis document is used for filing for the tax credit. \nUSDE Credit Guide: https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics\nThis page is a guide from the US Department of Energy that gives you the information you need to understand the tax credit. \n\nAs a reminder, our customer support team are not tax professionals, so please ensure to consult with a tax professional for specific questions regarding your tax filing situation.\n\nShould you require additional assistance with your solar system, please reply to this email, or call us at 855-264-0363."
+          "text": "Hello {{task.firstName}},\n\nAs you requested, here is the information you need for the Federal Solar Tax Credit. \nAttached to the email is a copy of your Residential Purchase Agreement - the price on there is what you use for IRS Form 5695. \nIRS Form 5695: https://www.irs.gov/forms-pubs/about-form-5695\nThis document is used for filing for the tax credit. \nUSDE Credit Guide: https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics\nThis page is a guide from the US Department of Energy that gives you the information you need to understand the tax credit. \n\nAs a reminder, our customer support team are not tax professionals, so please ensure to consult with a tax professional for specific questions regarding your tax filing situation.\n\nShould you require additional assistance with your solar system, please reply to this email, or call us at 855-264-0363."
         },
         {
           "label": "MPU Date Pending",
-          "text": "Dear {{attributes.firstName}},\n\nI hope this message finds you well. I wanted to inform you that the date for your Main Panel Upgrade is currently pending. We are working diligently to lock in the date with both the utility company and the building department, and we will confirm it as soon as possible.\n\nWe will keep you updated and notify you immediately once we have a confirmed date.\n\nPlease let me know if you have any questions in the meantime!"
+          "text": "Dear {{task.attributes}},\n\nI hope this message finds you well. I wanted to inform you that the date for your Main Panel Upgrade is currently pending. We are working diligently to lock in the date with both the utility company and the building department, and we will confirm it as soon as possible.\n\nWe will keep you updated and notify you immediately once we have a confirmed date.\n\nPlease let me know if you have any questions in the meantime!"
         },
         {
           "label": "MPU Date Set",
-          "text": "Hello {{attributes.firstName}},\n\nJust spoke to the team and the let me know that your MPU (main panel upgrade) is locked in for --. The electrician will come out and upgrade the main service panel and tie the solar into the electrical. Please let me know that you have received this message."
+          "text": "Hello {{task.attributes.firstName}},\n\nJust spoke to the team and the let me know that your MPU (main panel upgrade) is locked in for --. The electrician will come out and upgrade the main service panel and tie the solar into the electrical. Please let me know that you have received this message."
         }
       ]
     },
@@ -22,7 +22,7 @@
       "responses": [
         {
           "label": "AEP - NEM Doc Signature Request",
-          "text": "Hi {{attributes.firstName}},\n\nI hope this message finds you well. The Kin Home Interconnection Team has completed your initial interconnection paperwork with your utility company, AEP.\n\nIn order for AEP to process your solar project, the utility account holder's signature is required on the Interconnection Application. AEP has sent that document to you via email from POWERCLERK for signature. Please review the document and follow the prompts to add the signature.\n\nPlease reach out if you us have any questions or just need more clarification at nem@kinhome.com.\n\nThank you,\n\nKin Home Interconnection Team"
+          "text": "Hi {{task}},\n\nI hope this message finds you well. The Kin Home Interconnection Team has completed your initial interconnection paperwork with your utility company, AEP.\n\nIn order for AEP to process your solar project, the utility account holder's signature is required on the Interconnection Application. AEP has sent that document to you via email from POWERCLERK for signature. Please review the document and follow the prompts to add the signature.\n\nPlease reach out if you us have any questions or just need more clarification at nem@kinhome.com.\n\nThank you,\n\nKin Home Interconnection Team"
         },
         {
           "label": "AEP NEM - Homeowner Insurance Policy Request",
