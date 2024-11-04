@@ -1,65 +1,105 @@
 {
   "categories": [
     {
-      "section": "Sales",
+      "section": "General",
       "responses": [
         {
-          "label": "Features",
-          "text": "Our product comes with a variety of features that cater to your specific needs."
+          "label": "Federal Tax Credit",
+          "text": "Hello [NAME], As you requested, here is the information you need for the Federal Solar Tax Credit. Attached to the email is a copy of your Residential Purchase Agreement - the price on there is what you use for IRS Form 5695. IRS Form 5695: https://www.irs.gov/forms-pubs/about-form-5695 This document is used for filing for the tax credit. USDE Credit Guide: https://www.energy.gov/eere/solar/homeowners-guide-federal-tax-credit-solar-photovoltaics This page is a guide from the US Department of Energy that gives you the information you need to understand the tax credit. As a reminder, our customer support team are not tax professionals, so please ensure to consult with a tax professional for specific questions regarding your tax filing situation. Should you require additional assistance with your solar system, please reply to this email, or call us at 855-264-0363."
         },
         {
-          "label": "Refund",
-          "text": "We offer a 30-day money-back guarantee if you’re not satisfied with our product."
+          "label": "MPU Date Pending",
+          "text": "Dear [NAME], I hope this message finds you well. I wanted to inform you that the date for your Main Panel Upgrade is currently pending. We are working diligently to lock in the date with both the utility company and the building department, and we will confirm it as soon as possible. We will keep you updated and notify you immediately once we have a confirmed date. Please let me know if you have any questions in the meantime!"
         },
         {
-          "label": "Upgrade",
-          "text": "You can upgrade your plan at any time by logging into your account."
-        },
-        {
-          "label": "Demo",
-          "text": "We offer a free demo of our product to help you make an informed decision."
-        },
-        {
-          "label": "Compatibility",
-          "text": "Our product is compatible with most modern browsers and devices."
-        },
-        {
-          "label": "Cost",
-          "text": "We have multiple billing options. You can pay yearly and save 10%"
-        },
-        {
-          "label": "Promotion",
-          "text": "We do offer discounts for our best customers."
+          "label": "MPU Date Set",
+          "text": "Hello [NAME], Just spoke to the team and the let me know that your MPU (main panel upgrade) is locked in for [DATE]. The electrician will come out and upgrade the main service panel and tie the solar into the electrical. Please let me know that you have received this message."
         }
       ]
     },
     {
-      "section": "Support",
+      "section": "Interconnection",
       "responses": [
         {
-          "label": "Technical Issue",
-          "text": "Please provide us with more details regarding the issue you’re facing so that we can assist you better."
+          "label": "AEP NEM Doc Signature",
+          "text": "Hi [NAME], I hope this message finds you well. The Kin Home Interconnection Team has completed your initial interconnection paperwork with your utility company, AEP. In order for AEP to process your solar project, the utility account holder's signature is required on the Interconnection Application. AEP has sent that document to you via email from POWERCLERK for signature. Please review the document and follow the prompts to add the signature. Please reach out if you us have any questions or just need more clarification at nem@kinhome.com."
         },
         {
-          "label": "Billing Issue",
-          "text": "Please provide us with your account details so that we can look into the billing issue you’re facing."
+          "label": "AEP Insurance Policy Request",
+          "text": "Hello [NAME], I hope this message finds you well. As part of the standard procedures for utility interconnection in Ohio, we kindly request a copy of your homeowner's insurance policy DECLARATION page that shows your NAME, ADDRESS and LIABILITY COVERAGE. This is an AEP Utility requirement in order to move your project forward. Please send a copy of your policy to nem@kinhome.com. Thank you very much for your cooperation and prompt attention to this matter."
         },
         {
-          "label": "Customer Feedback",
-          "text": "We appreciate your feedback and will do our best to improve our product and services."
+          "label": "AEP Document Follow Up",
+          "text": "Dear [NAME], I hope this message finds you well. This is a gentle reminder that we are still awaiting your signature on AEP's Interconnection application. Your prompt attention to this matter would be greatly appreciated as it is crucial to receiving utility permission to operate your new solar system. You will find these documents in your email inbox, sent from PowerClerk. If you can not locate the email, we can easily resend the application. If you have any questions or need further assistance, feel free to reach out at nem@kinhome.com or reply to this message, we are here to help."
         },
         {
-          "label": "Cancel Subscription",
-          "text": "You can cancel your subscription at any time by logging into your account and navigating to the subscription section."
+          "label": "AEP Insurance Expired",
+          "text": "Hi [NAME], I hope this message finds you well. Thank you for providing us a copy of your homeowner insurance policy, unfortunately the copy we received has expired. Could you please provide a more recent version of your policy to nem@kinhome.com? The utility companies will reject a Interconnection Application submission if a expired policy is uploaded along with the other supporting documents. If you have any questions or need any additional information, please reach out by emailing the team at nem@kinhome.com."
         },
         {
-          "label": "Account Verification",
-          "text": "For security purposes, we may require you to verify your account before we can proceed with your request."
+          "label": "AEP Insurance Follow Up",
+          "text": "Dear [NAME], I hope this message finds you well. This is a gentle reminder that we are still awaiting a recent copy of your Homeowners insurance policy. Your prompt attention to this matter would be greatly appreciated as it is crucial to receiving utility permission to operate your new solar system. If you could, please provide us with a recent copy of your Homeowners insurance policy that includes the following items: Policy holder name, Policy address (should match the address of solar project), Liability Coverage. If you have any questions or need further assistance, feel free to reach out at nem@kinhome.com or reply to this message, we are here to help."
         },
-        { "label": "Login", "text": "You can login at https://example.com" },
         {
-          "label": "Forgot Password",
-          "text": "You can reset your password here at https://example.com/passwordreset"
+          "label": "Alliant Energy Doc Follow Up",
+          "text": "Dear [NAME], I hope this message finds you well. This is a gentle reminder that we are still awaiting your Utility account holder's signature on the Alliant Energy Interconnection Application. This will be electronic document in your email coming from a DoNotReply Docusign email. Your prompt attention to this matter would be greatly appreciated as it is a required step in achieving utility approval. If you can not locate the email, we can easily resend the application. If you have any questions or need further assistance, feel free to reach out at nem@kinhome.com or reply to this message, we are here to help."
+        },
+        {
+          "label": "Alliant Energy Insurance Expired",
+          "text": "Hi [NAME], I hope this message finds you well. Thank you for providing us a copy of your homeowner insurance policy, unfortunately the copy we received has expired. Could you please provide your most recent version of your policy to nem@kinhome.com? The utility company requires an active copy of the policy to be included in the Interconnection Application. If you have any questions or need any additional information, please reach out by emailing the team at nem@kinhome.com."
+        },
+        {
+          "label": "Alliant Energy Insurance Request",
+          "text": "Hello [NAME], I hope this message finds you well. As part of our standard procedures for utility interconnection, we kindly request a copy of your homeowner's insurance policy. **This is an Alliant Energy requirement in order to move your project forward. Please send a copy of your policy to nem@kinhome.com. If you have any concerns or questions regarding this request, please don't hesitate to reach out to us. We're here to assist you in any way we can!"
+        },
+        {
+          "label": "Alliant Energy App Signature",
+          "text": "Hi [NAME], I hope this message finds you well. The Kin Home Interconnection Team has completed your initial interconnection paperwork with Alliant Energy and are ready to submit application. In order for Alliant Energy to process your solar project, your Utility Account Holder signature is required on the Interconnection Application. Alliant Energy has sent that document via email and it will come from a DoNotReply DocuSign email address. Please review the document and follow the prompts to add your digital signature. NOTE*** The signature must match the Alliant Energy Account Holder's name. Please reach out if you us have any questions or just need more clarification at nem@kinhome.com."
+        },
+        {
+          "label": "Alliant Energy PTO Signature",
+          "text": "Hello [NAME], This is [AGENT_NAME] from the Kin Home Interconnection Team. We wanted to thank you for your participation in this process, we could not do it without you. Alliant Energy requires a final signature on the Certificate of Completion form. This form will be sent to you via email from a DoNoReply DocuSign email address. Please locate email in your inbox and follow the instructions it provides. Once your signature has been added, Kin Home will be able to submit the remaining required items to Alliant Energy for their review and approval. Should you have any questions or concerns, please contact the Interconnection Team at nem@kinhome.com, the team will be happy to assist you."
+        },
+        {
+          "label": "Duke Energy PTO Signature",
+          "text": "Hello [NAME], I hope all is well. We are excited to inform you that we are just a few steps away from getting your solar project up and running. To proceed, we need the Duke Energy Account Holder's signature on the Interconnection Agreement. You can find the agreement in your email to sign. (Any empty fields you see on the agreement will be finalized by Duke Energy). Your prompt attention to this will help us move forward smoothly. Thank you so much for your cooperation and support."
+        },
+        {
+          "label": "FPL NEM Instructions",
+          "text": "Hello [NAME], This is [AGENT_NAME] from the Kin Home Interconnection Team. We are one step closer to activating your new solar system! There are just a few steps left to achieve permission to operate. Florida Power and Light has emailed you a Net Metering Application invite, please check your inbox and locate the email. The purpose of the email is to grant Kin Home access to your Net Metering application so that we may complete and submit your application on your behalf. This link will help walk you through the process of granting access to Kin Home (https://drive.google.com/file/d/1-HR48MO-zcZ9mkcFcKFhczoEVY8K0N0c/view). Once access has been granted, Kin Home will complete the application with the appropriate information, and submit for FPL's review. FPL will then send an email with an invoice attached, please forward that email to us at flnem@kinhome.com so we may process the payment."
+        },
+        {
+          "label": "FPL Net Metering Signature",
+          "text": "Hello [NAME], This is [AGENT_NAME] from the Kin Home Net Metering Team. I wanted to thank you for your participation in this process, we could not do it without you. FPL requires ONE more signature, this is the last signature we need from you. Please locate the FPL email in your inbox [EMAIL], open the email, and follow the instructions provided. Once your signature has been added and the application has been completed, Kin Home will submit the remaining required items to FPL for their review and approval. Should you have any questions or concerns, please contact the Net Metering team at flnem@kinhome.com, the team will be happy to assist you."
+        },
+        {
+          "label": "LCEC Need PTO Letter",
+          "text": "Hello From Kin Home, I hope this email finds you well and you are enjoying your solar experience! We wanted to inform you that your lender requires the Permission to Operate letter from LCEC to finalize their approval process. This letter is provided by LCEC once they have approved your solar system to operate. You will receive this letter directly from LCEC. To assist in expediting your approval, please forward the Permission to Operate letter to us at flnem@kinhome.com. We will ensure a copy is sent to your lender promptly. If you have any questions or need further assistance, please do not hesitate to reach out. We are here to help and ensure everything goes smoothly. Thank you for your cooperation and for choosing Kin Home!"
+        },
+        {
+          "label": "LCEC Net Metering Signature",
+          "text": "Hello [NAME], This is [AGENT_NAME] from the Kin Home Net Metering Team. LCEC, your utility provider, requires a Net Metering application to be completed and returned to LCEC for their review and approval prior to activating your new solar system. An email with the heading 'Signature Requested on LCEC Nem Application' has been sent to [EMAIL], please locate this email. The LCEC application has been prepared on your behalf, all we need is your digital signature. Once you have opened the email and application, Adobe will walk you through the signature process and have you sign all the appropriate locations. Once the application has been completed and returned to Kin Home, we will begin the process of securing Permission to Operate your new solar system. Should you come upon an issue or just need a little guidance, please send an email to flnem@kinhome.com, our Net Metering team will be happy to assist you."
+        },
+        {
+          "label": "MidAmerican Rate Selection",
+          "text": "Hello [NAME], You should have just received an email from Kin Home containing a document that requires the utility account holder's signature. This document is your agreement to select the Inflow/Outflow Billing Option with MidAmerican Energy. This option says that you agree to sell your excess energy to MidAmerican. Please review and sign the document at your earliest convenience. There is another option but there is little to no benefit to MidAmerican's residential solar customers. If you would like more information about this other option please feel free to ask!"
+        },
+        {
+          "label": "TECO Net Metering Signature",
+          "text": "Hello [NAME], This is [AGENT_NAME] from the Kin Home Net Metering Team. TECO, your utility provider, requires a Net Metering application to be completed and returned to TECO for their review and approval prior to activating your new solar system. An email with the application has been sent to [EMAIL], please locate this email. The TECO application has been prepared on your behalf, all we need is your digital signature. Once you have opened the email and application, Adobe will walk you through the signature process and have you sign all the appropriate locations. Once the application has been completed and returned to Kin Home, we will begin the process of securing Permission to Operate your new solar system. Should you come upon an issue or just need a little guidance, please send an email to flnem@kinhome.com, our Net Metering team will be happy to assist you."
+        },
+        {
+          "label": "Utility Bill Missing",
+          "text": "Hello [NAME], I hope this message finds you well. As part of our standard procedures for utility interconnection, we kindly request a copy of a recent utility bill that clearly shows the following items: NAME ON ACCOUNT, ADDRESS OF ACCOUNT, ACCOUNT NUMBER, GRAPH SHOWING USAGE. Ensuring that we have up-to-date utility bill on file helps us to streamline our processes and maintain compliance with regulatory requirements by staying within the sizing limitations a utility company. Could you please provide us with a copy of one of your recent utility bills, you can send a copy of your policy to nem@kinhome.com. If you have any concerns or questions regarding this request, please don't hesitate to reach out to us. We're here to assist you in any way we can!"
+        }
+      ]
+    },
+    {
+      "section": "Retention",
+      "responses": [
+        {
+          "label": "Unresponsive Customer",
+          "text": "Hello [NAME], I hope this message finds you well! We noticed that we haven't heard from you in a while, and we wanted to reach out regarding your project. Please let us know how things are going and if there's anything we can do to assist you. If we don't receive a response by [DATE], we may need to take further action, which could include additional fees. We'd love to understand your current status and see if there's anything we can do to support you. We look forward to hearing from you soon!"
         }
       ]
     }
